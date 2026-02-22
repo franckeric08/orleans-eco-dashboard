@@ -1,0 +1,3 @@
+pandas @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_80pc5xjc2v/croot/pandas_1702317994691/work/dist/pandas-2.1.4-cp311-cp311-macosx_10_9_x86_64.whl#sha256=562d8dcc486342bcfe647be4b2ca0c2d857ced5be1d9ae31f02631c15ceff057
+plotly @ file:///Users/ec2-user/ci_py311/plotly_1678382250051/work
+streamlit==1.41.1
